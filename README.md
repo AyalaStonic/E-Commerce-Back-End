@@ -1,11 +1,9 @@
-<h1 align="center">Object-Relational Mapping (ORM): E-Commerce Back End 👋</h1>
+<h1 align="center"> E-Commerce Back End </h1>
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/Leocrydis/E-commerce-Back-End" />
-    <img src="https://img.shields.io/github/languages/top/Lecrydis/E-commerce-Back-End"  />
-    <img src="https://img.shields.io/github/issues/Leocrydis/E-commerce-Back-End" />
-    <img src="https://img.shields.io/github/last-commit/Leocrydis/E-commerce-Back-End" >
-    <a href="https://github.com/Leocrydis"><img src="https://img.shields.io/github/followers/jpd61?style=social" target="_blank" /></a>
+    <img src="https://github.com/AyalaStonic/E-Commerce-Back-End#readme" />
+    <img src="https://github.com/AyalaStonic/E-Commerce-Back-End/issues" />
+    <a href="https://github.com/AyalaStonic/E-Commerce-Back-End" ></a>
 </p>
   
 <p align="center">
@@ -15,24 +13,6 @@
     <img src="https://img.shields.io/badge/mySQL-blue"  />
     <img src="https://img.shields.io/badge/dotenv-green" />
 </p>
-   
-## Description
-
-🔍 A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
-  
-💻 Below is the gif showing the functionality of the application:
-  
-![DB Setup and Start]()
-
-![GET All](./animations/GET%20all.gif)
-
-![GET All by ID](./animations/GET%20by%20ID.gif)
-
-![POST PUT DELETE Products and Tags](./animations/POST%20PUT%20DELETE%20Categories.gif)
-
-![POST PUT DELETE Categories](./animations/POST%20PUT%20DELETE%20Tags%20and%20Products.gif)
-  
-🎥 The full movie file showing functionality of the application can be found in the animations directory
   
 ## User Story
   
@@ -57,17 +37,6 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
-  
-## Table of Contents
-- [Description](#description)
-- [User Story](#user-story)
-- [Acceptance Criteria](#acceptance-criteria)
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [Questions](#questions)
 
 ## Installation
 💾   
@@ -97,13 +66,6 @@ Enter PW when promted
   
 `npm start`
 
-## Testing
-✏️
-
-No testing is currently set up
-
-## Contributing
-[Isaiah Alvarez](https://github.com/Leocrydis)
 
 ## Questions
-✉️ Contact me with any questions: [GitHub](https://github.com/Leocrydis)<br />
+✉️ Contact me with any questions: [GitHub](https://github.com/AyalaStonic)<br />
